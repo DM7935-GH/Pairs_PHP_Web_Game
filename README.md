@@ -12,7 +12,9 @@ Main features:
 
 ### Examples
 <img width="700" height="500" alt="Image" src="https://github.com/user-attachments/assets/83659c2d-3334-4d08-8428-59c5195af9c3" />  
+  
 <img width="700" height="460" alt="Image" src="https://github.com/user-attachments/assets/810e8560-8964-4af8-8e35-95f34f631fe1" />  
+  
 <img width="700" height="440" alt="Image" src="https://github.com/user-attachments/assets/91b8d9f2-1e82-4c20-ab34-b38f34869afb" />  
 
 ### Implementation
