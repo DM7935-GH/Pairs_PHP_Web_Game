@@ -11,7 +11,7 @@ Main features:
 - Intuitive & mobile-friendly user interface.
 
 ### Examples
-
+<img width="1022" height="642" alt="Image" src="https://github.com/user-attachments/assets/91b8d9f2-1e82-4c20-ab34-b38f34869afb" />  
 
 ### Implementation
 - PHP: Server-side scripting.
