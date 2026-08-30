@@ -1,0 +1,62 @@
+{
+    "Odoacer": {
+        "l1_score": "135",
+        "l2_score": "114",
+        "l3_score": "149",
+        "l4_score": "59",
+        "l5_score": "163",
+        "l6_score": "248",
+        "l7_score": "173",
+        "total_score": "983"
+    },
+    "Sangson": {
+        "l1_score": "128",
+        "l2_score": "85",
+        "l3_score": "133",
+        "l4_score": "0",
+        "l5_score": "0",
+        "l6_score": "0",
+        "l7_score": "0",
+        "total_score": "346"
+    },
+    "Terra Australis": {
+        "l1_score": "121",
+        "l2_score": "101",
+        "l3_score": "139",
+        "l4_score": "88",
+        "l5_score": "162",
+        "l6_score": "229",
+        "l7_score": "133",
+        "total_score": "956"
+    },
+    "Qianlong": {
+        "l1_score": "112",
+        "l2_score": "91",
+        "l3_score": "117",
+        "l4_score": "40",
+        "l5_score": "150",
+        "l6_score": "207",
+        "l7_score": "92",
+        "total_score": "809"
+    },
+    "LOL": {
+        "l1_score": "129",
+        "l2_score": "102",
+        "l3_score": "147",
+        "l4_score": "40",
+        "l5_score": "9",
+        "l6_score": "0",
+        "l7_score": "0",
+        "total_score": "392"
+    },
+    "Yenisei": {
+        "l1_score": "102",
+        "l2_score": "104",
+        "l3_score": "149",
+        "l4_score": "9",
+        "l5_score": "0",
+        "l6_score": "0",
+        "l7_score": "0",
+        "total_score": "364"
+    }
+}

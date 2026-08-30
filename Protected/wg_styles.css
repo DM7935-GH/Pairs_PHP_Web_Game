@@ -1,0 +1,71 @@
+/* These styles are applied to the navbar container */
+.navbar {
+    background-color: blue; /* Makes the navbar background color blue */
+}
+.navbar-toggler {
+    margin: 5px;
+    background-color: rgb(70, 70, 255);
+}
+.navbar-toggler, .navbar-toggler:focus, .navbar-toggler:active,.navbar-toggler-icon:focus {
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
+.navbar-toggler:hover {
+    background-color: rgb(100, 100, 255);
+}
+
+/* These styles specifically affect the links/buttons in the navbar */
+.nav-link {
+    color: white !important;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Verdana, Tahoma, sans-serif;
+    padding : 8px 10px;
+    margin: 5px 10px;
+    background-color: rgb(50, 50, 255);
+}
+.nav-link:hover {
+    background-color: rgb(80, 80, 255);
+}
+
+/* These styles affect the user's avatar within the navbar */
+.navbar-avatar, .navbar-avatar > img:first-child {
+    position: relative;
+}
+.navbar-avatar > img:not(:first-child) {
+    position: absolute;
+    /* For images to be positioned directly on top of each other, the parent element and the first child
+    must have their position property set to 'relative', while other children must have it set to 'absolute' */
+}
+.navbar-avatar, .navbar-avatar > img {
+    top: 0;
+    left: 0;
+}
+.navbar-avatar > img {
+    width: 45px;
+    height: 45px;
+}
+
+/* These styles affect the main container div */
+#main {
+    /* Stretches the conatiner to fill the entire screen */
+    width: 100vw;
+    height: 100%;
+
+    /* Positions the div in the center of the page */
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+
+    /* Sets the arcade image as the background of the container */
+    background-size: cover;
+    background-image: url("./../Images/arcade-unsplash.jpg");
+    background-color: #12005b;
+    
+    z-index: -10; /* Puts the container background behind all other content on the screen */
+    padding-top: 90px; /* Ensures that none of the container's content is overlapped by the navbar */
+}
