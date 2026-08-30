@@ -1,5 +1,5 @@
 {
-    "Odoacer": {
+    "Janus": {
         "l1_score": "135",
         "l2_score": "114",
         "l3_score": "149",
@@ -9,7 +9,7 @@
         "l7_score": "173",
         "total_score": "983"
     },
-    "Sangson": {
+    "Grapeshot": {
         "l1_score": "128",
         "l2_score": "85",
         "l3_score": "133",
@@ -19,7 +19,7 @@
         "l7_score": "0",
         "total_score": "346"
     },
-    "Terra Australis": {
+    "Arria": {
         "l1_score": "121",
         "l2_score": "101",
         "l3_score": "139",
@@ -29,7 +29,7 @@
         "l7_score": "133",
         "total_score": "956"
     },
-    "Qianlong": {
+    "FREEZER32": {
         "l1_score": "112",
         "l2_score": "91",
         "l3_score": "117",
@@ -39,7 +39,7 @@
         "l7_score": "92",
         "total_score": "809"
     },
-    "LOL": {
+    "Yenisei": {
         "l1_score": "129",
         "l2_score": "102",
         "l3_score": "147",
@@ -49,7 +49,7 @@
         "l7_score": "0",
         "total_score": "392"
     },
-    "Yenisei": {
+    "Sangson": {
         "l1_score": "102",
         "l2_score": "104",
         "l3_score": "149",
